@@ -1,0 +1,76 @@
+require(6146998521).MINE("X_XSardonyx") -- metal cap
+require(6109971415).BRAZIL()-- brazil
+require(6068915505).MEAT("X_XSardonyx") --Meatball man
+require(6109180877).load("X_XSardonyx")-- crusifix
+require(6046598158).MINE("X_XSardonyx") --steve
+require(6694675629)("X_XSardonyx") --shitass
+require(6047472846).MINE("X_XSardonyx") --Rainbow
+require(6051040774).MINE("BLUE", "X_XSardonyx") --furry
+require(6051040774).MINE("BLACK", "X_XSardonyx") --furry
+require(6051040774).MINE("WHITE", "X_XSardonyx") --furry
+require(4675342879).vi("X_XSardonyx") -- chathax
+require(3032640233):Start("X_XSardonyx", "AAA") -- server admin
+require(3194321957).load(X_XSardonyx) -- Giant nuke
+require(6113423174)("X_XSardonyx") -- Guest Platinum
+require(5962850695)("X_XSardonyx") --halo
+require(5966793393)("X_XSardonyx") --Book
+require(5978166678)("X_XSardonyx") --sugar n salt
+require(5978960280)("X_XSardonyx") --F3X Giver
+require(5975462158)("BOIS")
+require(5980214935)("MAP")
+require(5982725010)("AMONGOOSE")
+
+require(3539445570).Hey('X_XSardonyx')--DANCE
+require(6013761430).Hey('X_XSardonyx')--DANCE
+require(6050386475).Hey('X_XSardonyx')--DANCE
+
+require(5160216694).Ass("X_XSardonyx") --utg
+require(5928057150).GOD('X_XSardonyx') -- GOD
+require(5928064269).icaca('X_XSardonyx') --icaca
+require(5837309168):SD2("X_XSardonyx") -- server Nuke
+require(2919954597).load("X_XSardonyx")
+
+require(2918747265).load('X_XSardonyx')--Xester
+require(3009165079).load('X_XSardonyx')--Pizza Man
+require(3019622564).load('X_XSardonyx')--Gun Shooter
+require(2984921335).load('X_XSardonyx')--Toad
+require(2985076062).load('X_XSardonyx')--Thomas
+require(3653842237).cat("X_XSardonyx")--Cat
+
+6863739696
+
+BEST:
+require(6727475573)("Small", "X_XSardonyx")--Small Tank Dance Chopper Glitch
+require(6795745291)("X_XSardonyx", "SP")--JOJO AURAS
+require(6748020547)("X_XSardonyx")-- funi vr
+require(6792387438)() -- SCP MAP
+require(6797189970)() -- Zeds Hat Shop
+require(6797304490)("X_XSardonyx")-- KICK AND KILL GUI
+require(6144141203).Meme("X_XSardonyx","Meme")-- meme tools
+require(6735439969)("X_XSardonyx")--modded meme tools
+require(6692759336).CHILL("X_XSardonyx") -- chill
+require(6223977609)['FakeVr']("X_XSardonyx") -- vr
+require(6592416470)("X_XSardonyx")--SUS
+require(6199855316)("X_XSardonyx") -- OP GEARS
+require(6164488189)("X_XSardonyx") -- exe
+require(4832971989)("X_XSardonyx") -- IY
+require(6703202552):adrian("X_XSardonyx") -- stand_gui
+require(5989608871)("X_XSardonyx", "X_XSardonyx") -- ME
+require(6024378572)("X_XSardonyx")--Zed Stand
+require(6814944415)("X_XSardonyx")-- KC DOPPIO 2
+require(6824070774)(workspace.X_XSardonyx)--ZA WARUDO
+require(6824511423)(false, nil, Workspace.X_XSardonyx)--MUDA
+require(6827965328)("X_XSardonyx")--Meshes
+require(6835704522).OWO("X_XSardonyx")--CANDI / meme tools
+require(4786706026):dex('X_XSardonyx')--Dex
+require(6836177575)() -- athaliahdc5's house
+require(6840435753).DIO("X_XSardonyx")--DIO Diary
+require(6845360572)("X_XSardonyx")--X-CHARA
+require(6851054760)("X_XSardonyx")--CEWL GUY GUI
+require(6894858661)()--Village Walls
+require(6923785890)("X_XSardonyx")--Magic Script
+require(6932391854)("Gaster", "X_XSardonyx")--Replace the first value to either: FNF   FNFDEATH   Gaster
+require(6953913465)("All", Color3.new(255,255,255), "[ROBLOX]: Mishamorykon is DUMMY THICC")
+require(7342404409).X_X("X_XSardonyx", "Luma")
+require(8017588843)() --space ship
+require(8173854344)("X_XSardonyx") --Sussy stand
