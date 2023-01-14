@@ -121,7 +121,8 @@ function Loader.loadObj(data, Settings)
 			v denotes vertex
 		--]]
 		['v'] = function(model, token, Settings)
-			local v:Vertex = table.insert(VertexClass,token[1] * Settings.scale, token[2] * Settings.scale, token[3] * Settings.scale, token[4]);
+			local v:Vertex = table.insert(VertexClass,{token[1] * Settings.scale, token[2] * Settings.scale, token[3] * Settings.scale, token[4]});
+			
 			model.Vertices[#model.Vertices+1] = v
 		end,
 		
