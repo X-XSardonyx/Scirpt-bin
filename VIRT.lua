@@ -32,7 +32,7 @@ function BuildStairs()
 end
 
 function Room()
-    local M=Instance.new("Model", s)
+    local M=Instance.new("Model", Workspace)
 local f=Instance.new("Part", M)
 f.Anchored = true
 f.Material = palette.Floor.M
