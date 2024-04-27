@@ -1,3 +1,4 @@
+
 local Size = 4
 local main = game.Players.X_XSardonyx.Character.HumanoidRootPart
 local roomMax=6
@@ -74,6 +75,28 @@ f.BrickColor = palette.Floor.C
 f.Size = Vector3.new(10,(1/Size),10)*Size
 f.CFrame=CurrPos
 
+local wall = Instance.new("Part", M)
+wall.Size=Vector3.new(1,30,f.Size.Z)
+wall.Anchored=true
+wall.CFrame = f.CFrame * CFrame.new(f.Size.X/2,15,0)
+wall.Material=palette.Walls.M
+wall.BrickColor=palette.Walls.C
+
+local wall = Instance.new("Part", M)
+wall.Size=Vector3.new(1,30,f.Size.Z)
+wall.Anchored=true
+wall.CFrame = f.CFrame * CFrame.new(-f.Size.X/2,15,0)
+wall.Material=palette.Walls.M
+wall.BrickColor=palette.Walls.C
+
+local wall = Instance.new("Part", M)
+wall.Size=Vector3.new(f.Size.Z,30,1)
+wall.Anchored=true
+wall.CFrame = f.CFrame * CFrame.new(0,15,-f.Size.Z/2)
+wall.Material=palette.Walls.M
+wall.BrickColor=palette.Walls.C
+
+
 BuildStairs(M)
 
 CurrPos=CurrPos*CFrame.new(0,(4*Size)+14,0)
@@ -84,3 +107,5 @@ end
 for i=1,5 do
     Room()
 end
+
+
